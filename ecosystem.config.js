@@ -5,7 +5,7 @@ module.exports = {
      */
     apps : [
         {
-            name      : 'AnimePicsBot',
+            name      : 'TWNExchange',
             script    : './handler.js',
             watch     : true,
             env: {
