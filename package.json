@@ -1,0 +1,32 @@
+{
+  "name": "twn-exchange",
+  "description": "TheWNetwork - Exchanger Bot",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "*",
+    "fs": "0.0.1-security",
+    "node-telegram-bot-api": "^0.51.0",
+    "promise-mysql": "^4.1.3",
+    "axios": "^0.21.4",
+    "uuid": "^3.4.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWNetwork/twn-exchange.git"
+  },
+  "homepage": "https://github.com/TheWNetwork/twn-exchange#readme",
+  "bugs": {
+    "url": "https://github.com/TheWNetwork/twn-exchange/issues"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": ""
+}
