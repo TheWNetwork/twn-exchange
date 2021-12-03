@@ -2,7 +2,6 @@ module.exports.run = async (botconfig, dbclient, bot, message, provider) => {
     return`@${botconfig.name} is a exchange bot.
     Try me using: 
     \/currencies
-    \/crypto
     \/cash [Quantity] [ORIGIN-CURRENCY] [EXCHANGED CURRENCY]
     \/exchange [Quantity] [ORIGIN-CURRENCY] [EXCHANGED CURRENCY]
     
